@@ -17,3 +17,7 @@ This is a master node firmware for auto plant shower device.
 - ssd1305
 - anyhow
 - mcp2515
+
+## Dev stack
+- toml-cfg
+- vs code dev container
